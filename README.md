@@ -3,7 +3,7 @@ These are my current settings when using Profit Trailer V2 with PT Feeder.
 
 These have been created using other peoples settings and help. To give credit I have been really helped by the following:
 
-1) official forum channel - https://forum.ptfeeder.co/
+1) Official forum channel - https://forum.ptfeeder.co/
 2) CryptoBoss discord channel - https://discord.gg/rffzEYE 
 3) CryptoStonersHouse discord channel - https://discord.gg/9ucG7WZ
 4) Article on Medium - https://medium.com/@wisepapertiger/profit-trailer-bitcoin-cryptobot-that-makes-lots-of-money-bitcoin-currency-trading-c4f618e048fc
