@@ -13,9 +13,9 @@ I suggest you check these groups and article out if you are using PT Feeder (or 
 You can now add TradingView into PT Feeder, good scripts can be found at:
 1) https://botindicators.com/
 
-I also have my own contributions to0, plus if you want to contact me direct then take a look at these:
+I also have my own contributions too, plus if you want to contact me direct then take a look at these:
 1) My website https://slumdogtrader.com
-2) Telegram group https://t.me/SlumdogTraderGroup 
-3) Discord Channel https://discord.gg/NNgBy28 
+2) Discord Channel https://discord.gg/NNgBy28 
+3) Telegram group https://t.me/SlumdogTraderGroup 
 
 I am doing this so that people can learn from scratch just like me, and hopefully help each other out. So please do ask away!
