@@ -1,7 +1,7 @@
 # Profit-Trailer-V2-with-PT-Feeder
 These are my current settings when using Profit Trailer V2 with PT Feeder.
 
-These have been created using other peoples settings and help. To give credit I have been really helped by the following:
+These settings have been created using other peoples help, guidance and their settings. To give credit I have been really helped by the following:
 
 1) Official forum channel - https://forum.ptfeeder.co/
 2) CryptoBoss discord channel - https://discord.gg/rffzEYE 
