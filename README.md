@@ -19,3 +19,8 @@ I also have my own contributions too, plus if you want to contact me direct then
 3) Telegram group https://t.me/SlumdogTraderGroup 
 
 I am doing this so that people can learn from scratch just like me, and hopefully help each other out. So please do ask away!
+
+Slumdog Trader's Github and its content are not financial advisors, and as such, this Wiki or script is not financial advice.
+Anything seen or used within this Wiki or script is here simply for educational purposes and it is up to you to decide what to do with this information and results.
+Please do your own research and verify any statements made before deciding to act upon them. 
+Do not commit any of your own resources to any trading or cryptocurrency activities without first verifying the accuracy of the information and know that your decisions are your own.
